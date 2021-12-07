@@ -17,4 +17,7 @@ I'm Qiping Pan, a freshman at THU.
 #### :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
