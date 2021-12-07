@@ -5,7 +5,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ppppqp&theme=dark&show_icons=true">](https://metrics.lecoq.io/ppppqp?template=classic)
 
 
-I'm Qiping Pan, a freshman at THU.
+I'm Qiping Pan, a senior at University of Michigan.
 
 -   :hammer_and_pick: C++ / Python / Javascript / TypeScript / Tex
 -   :pencil: React / Torch / Tensorflow / Linux 
