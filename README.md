@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**ppppqp/ppppqp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hey, Qiping here! :wave:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+
+![](https://github-readme-stats.vercel.app/api?username=ppppqp&count_private=true&show_icons=true&theme=onedark&hide_title=true&hide_rank=true)
+
+I'm Qiping Pan, a freshman at THU.
+
+-   :hammer_and_pick: C++ / Python / Javascript / TypeScript / React / Torch / Tensorflow
+-   :seedling: Senior at UMich
+-   :man: Pronouns: he/him
+
+
+
+#### :bar_chart: Monthly coding time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
