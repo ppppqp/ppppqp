@@ -14,7 +14,7 @@ I'm Qiping Pan, a senior at University of Michigan.
 
 
 
-#### :bar_chart: Monthly coding time
+#### :bar_chart: Weekly coding time
 
 <!--START_SECTION:waka-->
 ```text
