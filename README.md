@@ -18,10 +18,10 @@ I'm Qiping Pan, a senior at University of Michigan.
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 41 mins   ██████████▓░░░░░░░░░░░░░░   42.86 % 
-Go           3 hrs 15 mins   █████████▒░░░░░░░░░░░░░░░   37.92 % 
-JavaScript   1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-C++          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Go           5 hrs 31 mins   ████████████▓░░░░░░░░░░░░   50.28 % 
+TypeScript   3 hrs 41 mins   ████████▒░░░░░░░░░░░░░░░░   33.58 % 
+JavaScript   1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+C++          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 <!--END_SECTION:waka-->
