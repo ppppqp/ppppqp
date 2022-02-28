@@ -17,11 +17,10 @@ I'm Qiping Pan, a senior at University of Michigan.
 #### :bar_chart: Weekly coding time
 
 <!--START_SECTION:waka-->
+
 ```text
-Go      6 hrs 27 mins   █████████████████░░░░░░░░   68.59 % 
-Other   2 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-C++     25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-R       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Bash    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Go       3 hrs 50 mins   █████████████████░░░░░░░░   68.37 %
+Other    1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   24.29 %
 ```
+
 <!--END_SECTION:waka-->
