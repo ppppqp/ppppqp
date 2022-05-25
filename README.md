@@ -7,8 +7,8 @@
 
 I'm Qiping Pan, a senior at University of Michigan.
 
--   :hammer_and_pick: C++ / Python / Javascript / TypeScript / Tex
--   :pencil: React / Torch / Tensorflow / Linux 
+-   :hammer_and_pick: C++ / Python / Golang / Javascript / TypeScript / Tex
+-   :pencil: React / Vue / Torch / Tensorflow / Linux 
 -   :seedling: Senior at UMich
 -   :man: Pronouns: he/him
 
