@@ -19,12 +19,12 @@ I'm Qiping Pan, a senior at University of Michigan.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown        1 hr 58 mins    ████████▓░░░░░░░░░░░░░░░░   34.44 %
-Go              1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Bash            46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Vue.js          31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-SystemVerilog   30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-Other           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Markdown        1 hr 49 mins    █████████▓░░░░░░░░░░░░░░░   38.43 %
+Bash            46 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+Go              32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+SystemVerilog   30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+Vue.js          18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Other           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 ```
 
 <!--END_SECTION:waka-->
