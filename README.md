@@ -19,9 +19,9 @@ I'm Qiping Pan, a senior at University of Michigan.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      26 hrs 4 mins   ██████████████████░░░░░░░   72.03 %
-SystemVerilog   9 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
-Other           37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+TypeScript      22 hrs 29 mins  █████████████████░░░░░░░░   68.10 %
+SystemVerilog   9 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   28.57 %
+Other           49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
