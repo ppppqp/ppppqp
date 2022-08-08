@@ -19,9 +19,8 @@ I'm Qiping Pan, a senior at University of Michigan.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 41 mins   █████████▓░░░░░░░░░░░░░░░   39.18 %
-C++          2 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-Other        2 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+TypeScript   8 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   45.39 %
+Other        3 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
 ```
 
 <!--END_SECTION:waka-->
