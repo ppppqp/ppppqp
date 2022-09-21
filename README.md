@@ -19,9 +19,8 @@ I'm Qiping Pan, a senior at University of Michigan.
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 50 mins    █████████████▒░░░░░░░░░░░   53.72 %
-Rust         36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-Other        25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+Rust         36 mins         ███████░░░░░░░░░░░░░░░░░░   27.61 %
+Other        26 mins         █████░░░░░░░░░░░░░░░░░░░░   19.73 %
 ```
 
 <!--END_SECTION:waka-->
