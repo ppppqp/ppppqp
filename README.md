@@ -19,7 +19,7 @@ I'm Qiping Pan, a senior at University of Michigan.
 <!--START_SECTION:waka-->
 
 ```text
-FortranFixed   0 secs          █████████████████████████   100.00 %
+Other          0 secs          ██████████████████▒░░░░░░   73.71 %
 ```
 
 <!--END_SECTION:waka-->
