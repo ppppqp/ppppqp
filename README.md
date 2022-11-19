@@ -6,7 +6,7 @@
 
 
 
--   Language: C++ / Python / Golang / Javascript / TypeScript / Tex
+-   Language: C++ / Python / Golang / Javascript / TypeScript
 -   HPC: MPI / OpenMP / Cuda
 -   Web: ECMAScript / React / Webpack / Next / wasm / docker
 -   ML: Pytorch
