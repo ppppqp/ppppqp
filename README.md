@@ -18,12 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     3 hrs 13 mins   ██████████████▒░░░░░░░░░░   57.50 %
-JavaScript   2 hrs 18 mins   ██████████▒░░░░░░░░░░░░░░   41.17 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
