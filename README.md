@@ -18,8 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust    1 hr 2 mins     █████████████████████▒░░░   85.61 %
-Other   10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
