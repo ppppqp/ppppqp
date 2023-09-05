@@ -18,7 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ezhil        0 secs          █████████████▒░░░░░░░░░░░   53.97 %
+Markdown     0 secs          ████████░░░░░░░░░░░░░░░░░   31.61 %
+JavaScript   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
 ```
 
 <!--END_SECTION:waka-->
