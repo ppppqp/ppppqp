@@ -18,8 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       2 mins          █████████████████▓░░░░░░░   70.66 %
-GDScript   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
